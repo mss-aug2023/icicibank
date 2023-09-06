@@ -1,3 +1,2 @@
 Hello Guys this file contains the string utils functions..
-Hello added soem string utils...
 
